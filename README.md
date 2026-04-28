@@ -9,7 +9,6 @@ Veri bilimi, sistem mimarisi ve eğitim teknolojilerinin kesişiminde yer alan p
 * 🔭 Şu anda **veri mühendisliği** (Docker, Kubernetes, Apache Spark) ve sistem mimarileri üzerine projeler geliştiriyorum.
 * 🎓 Fen eğitimi alanında, özellikle **yapay zeka destekli blok tabanlı kodlamanın** (PictoBlox, mBlock) müfredata entegrasyonu üzerine tez ve araştırma çalışmaları yürütüyorum.
 * 💻 Altın, döviz ve gümüş gibi finansal varlıkların anlık kurlar üzerinden takibini sağlayan bir **mobil uygulama** geliştirdim.
-* 🛍️ Kendi kurduğum el yapımı deri tasarım markası olan [bmlhandcraft.com](https://bmlhandcraft.com)'un e-ticaret, altyapı ve SEO süreçlerini yönetiyorum.
 * 📊 Akademik düzeyde veri analizi ve istatistiksel modelleme (SPSS, Shapiro-Wilk, Wilcoxon) konularında yetkinim.
 
 ## 🛠️ Teknoloji ve Araç Kutum
