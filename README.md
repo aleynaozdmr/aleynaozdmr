@@ -34,7 +34,6 @@ Veri bilimi, sistem mimarisi ve eğitim teknolojilerinin kesişiminde yer alan p
 
 * **Biyoloji Eğitiminde Yapay Zeka Etki Araştırması:** Öğretmen adaylarıyla 13 hafta süren, blok tabanlı yapay zeka uygulamalarının etkisini inceleyen kapsamlı akademik çalışma.
 * **Canlı Kur Takip Mobil Uygulaması:** Kullanıcıların kişisel portföylerindeki varlıkları gerçek zamanlı API verileriyle takip edebildiği finansal araç.
-* **bmlhandcraft E-Ticaret Platformu:** Dijital şablon ve fiziksel ürün satışı yapılan uçtan uca yönetilen web platformu.
 * **Veri Göçü ve Model Eğitimi (Data Migration & ML Pipelines):** Dağıtık sistemler üzerinde veri işleme ve makine öğrenmesi modelleri için altyapı geliştirme çalışmaları.
 
 ## 📫 İletişime Geçin
